@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm CHINMAY AGRAWAL</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **something cool**
-
-- 🌱 I’m currently learning **AWS**
-
-- 💬 Ask me about **python/Javascript/django**
-
-- ⚡ Fun fact **I write funny effective code**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerearth.com/@chinmay231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chinmay231" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/chinmay-agrawal-ab3176141" target="blank">Connect with me</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
