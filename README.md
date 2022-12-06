@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinmay1596" alt="chinmay1596" /></a> </p>
 
-- 🔭 I’m currently working on **messaging systems**
+- 🔭 I’m currently working on **Distributed systems**
 
 - 🌱 I’m currently learning **System Design**
 
